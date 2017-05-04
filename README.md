@@ -1,6 +1,6 @@
 # ChildLocater
 ## theme :
-######It is a community based social service web app in which if someone's child is missing .We track its last location
+###### It is a community based social service web app in which if someone's child is missing .We track its last location
 and based on its location we send sos message to all the 1km proximity users .
 ##Prerequistes
 markdown
